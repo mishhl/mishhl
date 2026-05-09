@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <div align="center">
 
 
+<br>
 
 ![intro](images\header_intro.gif)
+
 
 </div>
 
