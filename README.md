@@ -34,7 +34,7 @@ hi, I'm Michelle.
 
 ```python
 michelle = {
-    "role":     "backend developer",
+    "major":    "computer science @ uc irvine",
     "loves":    "building things that actually help people",
     "approach": "clean logic, thoughtful design",
     "status":   "always working on something new",
