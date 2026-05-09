@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <div>
 
-🌐 **languages:** python, java, javascript, typescript, c/c++, c#, sql, html/css, 
+🌐 **languages:** python, java, javascript, typescript, c/c++, c#, sql, html/css
 
 🛠️ **tools:** react, node.js, django
 
