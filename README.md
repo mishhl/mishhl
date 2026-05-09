@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![intro](images\header_intro.gif)
+![intro](images/header_intro.gif)
 
 
 </div>
