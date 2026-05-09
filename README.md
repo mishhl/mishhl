@@ -65,7 +65,7 @@ michelle = {
 ### github stats
 
 <div align="center">
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishhl&show_icons=true&theme=graywhite&hide_border=true)
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mishhl&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishhl&layout=compact&theme=graywhite&hide_border=true&langs_count=6" />
@@ -80,8 +80,8 @@ michelle = {
 
 <div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michellelork)
+[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:mlork@uci.edu)
 
 </div>
 
